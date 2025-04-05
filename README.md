@@ -1,16 +1,51 @@
-# shopping_list
+# Shopping List App
 
-A new Flutter project.
+A Flutter-based Shopping List application that allows users to create and manage their shopping list efficiently.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Add Items**: Users can input:
+  - Item Name
+  - Quantity
+  - Category (Vegetable, Fruit, Meat, Dairy, Carbs, Sweets, Spices, Hygiene, Other)
+- **Edit & Delete Items**: Modify or remove items as needed.
+- **Categorization**: Items are grouped into predefined categories for easy navigation.
+- **Firebase Integration**: Add and delete items directly to/from the backend in real-time.
+- **User-friendly Interface**: Clean and intuitive UI with smooth animations.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/cf33c178-9a56-4869-b6a0-f199175d089c" width="80%"></td>
+    <td><img src="https://github.com/user-attachments/assets/6abb8872-522b-4f3d-aea3-16c30fec9b96" width="80%"></td>
+  </tr>
+</table>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/yourusername/shopping_list_app.git
+   ```
+2. Navigate to the project directory:
+   ```sh
+   cd shopping_list_app
+   ```
+3. Install dependencies:
+   ```sh
+   flutter pub get
+   ```
+4. Run the app:
+   ```sh
+   flutter run
+   ```
+
+## Technologies Used
+
+- **Flutter**: Framework for building the app
+- **Dart**: Programming language
+- **Firebase**: Backend for real-time data management
+- **State Management**: Riverpod
+- **Material Design**: UI Components
+- **Animations**: Smooth UI transitions
+
