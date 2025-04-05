@@ -16,8 +16,8 @@ A Flutter-based Shopping List application that allows users to create and manage
 ## Screenshots
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/cf33c178-9a56-4869-b6a0-f199175d089c" width="60%"></td>
     <td><img src="https://github.com/user-attachments/assets/6abb8872-522b-4f3d-aea3-16c30fec9b96" width="60%"></td>
+    <td><img src="https://github.com/user-attachments/assets/cf33c178-9a56-4869-b6a0-f199175d089c" width="60%"></td>
   </tr>
 </table>
 
